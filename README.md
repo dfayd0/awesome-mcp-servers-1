@@ -3,6 +3,7 @@
 > [!NOTE]
 > We do not accept PRs. Please submit your MCP on the website: https://mcpservers.org/submit
 
+- **[subsis-pr-mcp](https://github.com/dfayd0/ship-kit-claude-code)** - PR review MCP server exposing pr_diff, pr_blame, pr_linked_issues, pr_files_changed via gh CLI and git
 ## Sponsors
 
 <div align="center">
